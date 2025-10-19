@@ -91,7 +91,7 @@ Depois, acesse 👉 http://localhost:3000
 
 👨‍💻 Desenvolvido por
 
-João Henrique Mendes Oliveira 2 ano J
-Arthur Felipe de Oliveira 2 ano J
-Murilo Farias Lemes 2 ano J
+João Henrique Mendes Oliveira 2 ano J,
+Arthur Felipe de Oliveira 2 ano J,
+Murilo Farias Lemes 2 ano J,
 💡 Projeto acadêmico – PAW (Programação e Aplicações Web) – 4° Bimestre EM DESENVOLVIMENTO
